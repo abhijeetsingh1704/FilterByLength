@@ -9,7 +9,7 @@ usage: FilterByLength.py [-h] -l LENGTH_MIN [-m LENGTH_MAX] -i INPUT [-o OUTPUT]
 
 Filter multifasta sequences by sequence length
 
-optional arguments:                                                                                                                                                                                                                            
+optional arguments: 
 
 -h, --help           	show this help message and exit
 -l LENGTH_MIN, --length_min LENGTH_MIN
