@@ -6,13 +6,21 @@
 
 ## Usage
 
+```
 FilterByLength.py --input input_file.fa --output output_file.fa --length_min 100 --length_max 500 --verbose Y
+```
+
 
 ## Output
 
 
+![alt text](https://github.com/abhijeetsingh1704/FilterByLength/blob/main/FilterByLength.PNG?raw=true)
+
+
 
 ## Help 
+
+
 ```
 usage: FilterByLength.py [-h] -l LENGTH_MIN [-m LENGTH_MAX] -i INPUT [-o OUTPUT] [-v Y/y or N/n] [-V]
 
