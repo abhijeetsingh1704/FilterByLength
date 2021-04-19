@@ -14,8 +14,7 @@ FilterByLength.py --input input_file.fa --output output_file.fa --length_min 100
 ## Output
 
 
-
-
+![alt text](https://github.com/abhijeetsingh1704/FilterByLength/blob/main/FilterByLength.PNG?raw=true)
 
 
 ## Help 
