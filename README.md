@@ -5,9 +5,9 @@ Filter fasta sequences by length and count the sequences in a multifasta file
 
 
 ```
-usage: FilterByLength.py [-h] -l LENGTH_MIN [-m LENGTH_MAX] -i INPUT [-o OUTPUT] [-v Y/y or N/n] [-V] 
+usage: FilterByLength.py [-h] -l LENGTH_MIN [-m LENGTH_MAX] -i INPUT [-o OUTPUT] [-v Y/y or N/n] [-V]
 
-Filter multifasta sequences by sequence length                                                                                                                                                                                                                                                                                                                                                                                                                                            
+Filter multifasta sequences by sequence length
 
 optional arguments:                                                                                                                                                                                                                            
 
@@ -21,7 +21,7 @@ optional arguments:
 -o OUTPUT, --output OUTPUT         
 						output fasta file  
 -v Y/y or N/n, --verbose Y/y or N/n     
-						print progress to the terminal (default:verbose)    
+						print progress to the terminal (default:verbose)  
 -V, --version         show program's version number and exit
 
 ```
