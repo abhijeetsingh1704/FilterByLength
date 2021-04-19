@@ -33,12 +33,12 @@ optional arguments:
 -m LENGTH_MAX, --length_max LENGTH_MAX
                      	max lenght of sequence to retain 
 -i INPUT, --input INPUT      
-						input fasta file
+			input fasta file
 -o OUTPUT, --output OUTPUT         
-						output fasta file  
+			output fasta file  
 -v Y/y or N/n, --verbose Y/y or N/n     
-						print progress to the terminal (default:verbose)  
--V, --version         show program's version number and exit
+			print progress to the terminal (default:verbose)  
+-V, --version         	show program's version number and exit
 
 ```
 
