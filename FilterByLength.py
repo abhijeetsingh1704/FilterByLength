@@ -128,7 +128,7 @@ print('-' * 45)
 # plot in terminal
 import plotext as plt
 plt.scatter(length_list)
-plt.figsize(40, 20)
+plt.plotsize(40, 20)
 plt.show()
 
 ###################################
