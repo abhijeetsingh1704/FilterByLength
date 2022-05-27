@@ -42,3 +42,5 @@ optional arguments:
 
 ```
 
+## Citation
+Singh A. FilterByLength: Filter fasta sequences by length and count the sequences in a multifasta file. ResearchGate 2021. https://doi.org/10.13140/RG.2.2.10052.96643; Available at: https://github.com/abhijeetsingh1704/FilterByLength
