@@ -7,7 +7,7 @@
 ## Usage
 
 ```
-FilterByLength.py --input input_file.fa --output output_file.fa --length_min 100 --length_max 500 --verbose Y
+FilterByLength.py --input input_file.fa --output output_file.fa --length_min 100 --length_max 200 --verbose Y
 ```
 
 
